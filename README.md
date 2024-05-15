@@ -1,7 +1,7 @@
 # ORB-SLAM3 
 This repository permits to implement ORB-SLAM3 on wsl (Ubuntu 20.04), and permits to use the camera for live mapping.
 
-### [Link to original ORB-SLAM3's README.md](https://github.com/UZ-SLAMLab/ORB_SLAM3)
+### [Link to original ORB-SLAM3 repository](https://github.com/UZ-SLAMLab/ORB_SLAM3)
 
 # Ubuntu 20.04 in wsl2
 
