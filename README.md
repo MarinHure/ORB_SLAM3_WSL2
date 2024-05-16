@@ -151,7 +151,7 @@ In order to build the project, do the following
 cd ~
 git clone https://github.com/MarinHure/ORB_SLAM3_WSL.git ORB_SLAM3
 ````
-This repository incorporates changes to the source code  necessary to build successfully. For Ubuntu 20.04, it changes CMakeList from C++11 to C++14.  
+This repository incorporates changes from https://github.com/thien94/ORB_SLAM3 to the source code  necessary to build successfully. For Ubuntu 20.04, it changes CMakeList from C++11 to C++14.  
 
  * Build
 ````
